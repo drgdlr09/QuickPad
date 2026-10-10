@@ -74,3 +74,5 @@ The biggest obstacle I encountered while designing the board was an issue with t
 ![Screenshot 2026-10-10 at 2.44.12 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/oWK9iPLBGiJtrZ5WPQtAnBOy06yuxWnK/1eaaf35442bab9e3d978fae2017fb99a87c33d462de802c3e8eb2d99be855b5c.png)
 
 I'm nearly there, all I need to do now is the firmware and finalizing the Github repository.
+
+# tl;dr: After encountering a problem with the footprint of the XIAO RP2040, I imported the footprint and continued working, but I had to reroute the board after realizing I hadn't flipped the RP2040.
