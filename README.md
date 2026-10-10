@@ -10,3 +10,12 @@ QuickPad uses the XIAO RP2040 microcontroller. Each switch uses one of the micro
 
 <img width="418" height="383" alt="Screenshot 2026-10-10 at 5 21 21 PM" src="https://github.com/user-attachments/assets/0b11fe6d-7eba-4660-a16e-4fb1d26613ce" />
 
+# Bill of Materials
+
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
+| --- | --- | --- | --- | --- |
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 4 | Row 1, Col 5 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 | Row 2, Col 4 | Row 2, Col 5 |
+| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 | Row 3, Col 5 |
+| Row 4, Col 1 | Row 4, Col 2 | Row 4, Col 3 | Row 4, Col 4 | Row 4, Col 5 |
+| Row 5, Col 1 | Row 5, Col 2 | Row 5, Col 3 | Row 5, Col 4 | Row 5, Col 5 |
