@@ -18,7 +18,7 @@
 | [PCB](https://jlcpcb.com/) | The board itself that everything is soldered to | 5 | $0.23 | $1.15 | [JLCPCB](https://jlcpcb.com/) |
 | [0.91" OLED display](https://www.amazon.com/MakerFocus-Display-SSD1306-3-3V-5V-Arduino/dp/B079BN2J8V/ref=sr_1_5?crid=16F8TND4VW62Y&dib=eyJ2IjoiMSJ9.TaYhBdYcXk9MnHSq3xuTn066B054Ij-oYrNfTFmV2eNoYKvMLgO9uY24YA_azJtsKVWz8jA4ljPwTGRRFkOAfMX_TsWFl_HmuzPYHxgnFlScB65HqLapq2te3Lu8jAVRmKh-et8AgExV6d69HlF-rgMyKXiSZK-iDtl8jjxqa2zgS1O2d4r_jcYN3pDrrTo5kOmL6E_HdyZYjoDmWCDgIo1G-ZCrSUp9Yo2kO1SGuYI.2idlOj8nJyv1LUcZIjFmZsLRNbXi0pm_urOXnxCcdzY&dib_tag=se&keywords=0.91%2Binch%2Boled%2Bdisplay&qid=1791606491&refinements=p_72%3A1248879011&rnid=1248877011&sprefix=0.91%2Caps%2C128&sr=8-5&th=1) | Display date and time | 2 | $4.00 | $8.00 | [Amazon](https://www.amazon.com/MakerFocus-Display-SSD1306-3-3V-5V-Arduino/dp/B079BN2J8V/ref=sr_1_5?crid=16F8TND4VW62Y&dib=eyJ2IjoiMSJ9.TaYhBdYcXk9MnHSq3xuTn066B054Ij-oYrNfTFmV2eNoYKvMLgO9uY24YA_azJtsKVWz8jA4ljPwTGRRFkOAfMX_TsWFl_HmuzPYHxgnFlScB65HqLapq2te3Lu8jAVRmKh-et8AgExV6d69HlF-rgMyKXiSZK-iDtl8jjxqa2zgS1O2d4r_jcYN3pDrrTo5kOmL6E_HdyZYjoDmWCDgIo1G-ZCrSUp9Yo2kO1SGuYI.2idlOj8nJyv1LUcZIjFmZsLRNbXi0pm_urOXnxCcdzY&dib_tag=se&keywords=0.91%2Binch%2Boled%2Bdisplay&qid=1791606491&refinements=p_72%3A1248879011&rnid=1248877011&sprefix=0.91%2Caps%2C128&sr=8-5&th=1) |
 | **Parts subtotal** | — | — | — | **$30.02** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$30.02** | — |
+| **Tax & shipping** | — | — | — | **$2.22** | — |
+| **Total** | — | — | — | **$32.24** | — |
 
-**$0.02 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$2.24 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
