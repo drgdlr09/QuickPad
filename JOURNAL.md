@@ -55,6 +55,8 @@ I decided to skip around a little bit and look for some of the components I need
 
 Tomorrow I'm going to work on finishing the PCB and getting starting with firmware and setting up my Github repo.
 
+# tl;dr: I shopped for parts online. I already own switches and a rotary encoder, so all I needed to find was the XIAO RP2040, which I found on the Seeed store, and the OLED screen, keycaps, and the time module, which I found on Amazon.
+
 ### 2026-10-10 – # October 10: Finished Routing the PCB!
 
 **4h**
