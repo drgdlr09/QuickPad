@@ -41,6 +41,8 @@ I also tried using labels for the first time in a KiCad project, which I found m
 
 The next step is routing the board!
 
+# tl;dr: I finished the schematic for QuickPad, a six-key macropad with a screen to display date and time. I used labels for the first time and used header pins to represent an OLED screen and a time module.
+
 ### 2026-10-10 – # October 9-10: Shopping
 
 **2h**
