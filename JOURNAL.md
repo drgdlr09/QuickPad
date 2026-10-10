@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 10h | 3 |
+| Week 1 | Tier 1 | 9h | 3 |
 
 ## Contents
 
@@ -22,7 +22,7 @@
 
 ### 2026-10-09 – # October 9: Finished the Schematic
 
-**4h**
+**3h**
 
 # October 9: Finished the Schematic
 
