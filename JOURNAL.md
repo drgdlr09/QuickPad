@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-09 – October 9: Finished the Schematic](#2026-10-09-october-9-finished-the-schematic)
-2. [2026-10-10 – October 9-10: Shopping](#2026-10-10-october-9-10-shopping)
+2. [2026-10-10 – # October 9-10: Shopping](#2026-10-10-october-9-10-shopping)
 3. [2026-10-10 – # October 10: Finished Routing the PCB!](#2026-10-10-october-10-finished-routing-the-pcb)
 
 ## Design
@@ -42,11 +42,11 @@ I also tried using labels for the first time in a KiCad project, which I found m
 
 The next step is routing the board!
 
-### 2026-10-10 – October 9-10: Shopping
+### 2026-10-10 – # October 9-10: Shopping
 
 **2h**
 
-October 9-10: Shopping
+# October 9-10: Shopping
 
 ![Screenshot 2026-10-10 at 12.36.29 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/oWK9iPLBGiJtrZ5WPQtAnBOy06yuxWnK/8109792424f8cdd80829b20cb009ce6344185b5ccbe20986ce0103da68537e9a.png)
 
