@@ -16,7 +16,7 @@
 
 1. [2026-10-09 – October 9: Finished the Schematic](#2026-10-09-october-9-finished-the-schematic)
 2. [2026-10-10 – October 9-10: Shopping](#2026-10-10-october-9-10-shopping)
-3. [2026-10-10 – October 10: Finished Routing the PCB!](#2026-10-10-october-10-finished-routing-the-pcb)
+3. [2026-10-10 – # October 10: Finished Routing the PCB!](#2026-10-10-october-10-finished-routing-the-pcb)
 
 ## Design
 
@@ -56,11 +56,11 @@ I decided to skip around a little bit and look for some of the components I need
 
 Tomorrow I'm going to work on finishing the PCB and getting starting with firmware and setting up my Github repo.
 
-### 2026-10-10 – October 10: Finished Routing the PCB!
+### 2026-10-10 – # October 10: Finished Routing the PCB!
 
 **4h**
 
-October 10: Finished Routing the PCB!
+# October 10: Finished Routing the PCB!
 
 ![Screenshot 2026-10-10 at 2.41.21 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/oWK9iPLBGiJtrZ5WPQtAnBOy06yuxWnK/8f335af7c750652f410745af6ba33f6f7e83f77001695069b885cef44ee90991.png)
 
