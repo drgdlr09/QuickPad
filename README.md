@@ -12,10 +12,10 @@ QuickPad uses the XIAO RP2040 microcontroller. Each switch uses one of the micro
 
 # Bill of Materials
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
+| Part | Quantity | Unit Price | Total | Vendor |
 | --- | --- | --- | --- | --- |
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 4 | Row 1, Col 5 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 | Row 2, Col 4 | Row 2, Col 5 |
-| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 | Row 3, Col 5 |
-| Row 4, Col 1 | Row 4, Col 2 | Row 4, Col 3 | Row 4, Col 4 | Row 4, Col 5 |
-| Row 5, Col 1 | Row 5, Col 2 | Row 5, Col 3 | Row 5, Col 4 | Row 5, Col 5 |
+| XIAO RP2040 | 1 | 3.99 | 3.99 | Seeed |
+| Keycaps | 24 | 0.37 | 8.88 | Amazon |
+| PCB | 5 | 0.23 | 1.15 | JLCPCB |
+| 0.91" OLED Screen | 2 | 4.00 | 8.00 | Amazon |
+| DS3231 | 2 | 4.00 | 8.00 | Amazon |
