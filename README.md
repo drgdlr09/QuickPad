@@ -26,7 +26,7 @@ The OLED Display and clock module work hand-in-hand. The display displays the cu
 
 <img width="300" height="289" alt="Screenshot 2026-10-18 at 1 54 40 PM" src="https://github.com/user-attachments/assets/529b80e9-c0b6-4b09-a23b-9f5df821f4da" />
 
-*NOTE: Based on what I saw, although it looks like the microcontroller collides with switch 2, it shouldn't because the microcontroller is on the back of the board, not the front, so there shouldn't be any collisions (See 3D rendering above to confirm please).
+*NOTE: Based on what I saw, although it looks like the microcontroller collides with switch 2 in the PCB layout, it shouldn't because the microcontroller is on the back of the board, not the front, so there shouldn't be any collisions (See 3D rendering above to confirm please; I could be wrong).
 
 # The Case
 The case has a similar design to my actual keyboard. It is comprised of 3 main parts: the main body, the top enclosure, and the rotary encoder knob. The main body has a sleep angular design with rounded edges for ergonomics when it needed to be moved. It also has a small hole for the USB port. The PCB is slightly raised to make room for the bottom components and also to create an inclined angled of typing.
