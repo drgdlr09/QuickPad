@@ -18,7 +18,7 @@ QuickPad is built around the SEEED XIAO RP2040, a small microcontroller with 11 
 
 The switches use a direct pin layout, with each pin wired directly between a GPIO pin and ground. Switch 1 is mapped to pin D0, switch 2 is mapped to pin D1, switch 3 is mapped to pin D2, switch 4 is mapped to pin D3, switch 5 is mapped to D8, and switch 6 is mapped to D9. The firmware matches each switches 1-6 to F1-F6 respectively. When a key is pressed, the firmware sends the HID code for that key, thus triggering the response.
 
-The rotary encoder is what controls volume. Turning clockwise turns the volume up and turning counterclockwise turns the volume down. Pressing the rotary encoder mutes the volume. Similarly to the switches, each input sends and HID code to get a response. The encoder's A pin is on D6, the B pin is on D7, and S1 is on D10.
+The rotary encoder is what controls volume. Turning clockwise turns the volume up and turning counterclockwise turns the volume down. Pressing the rotary encoder mutes the volume. Similarly to the switches, each input sends and HID code to get a response that triggers volume up/down or mute. The encoder's A pin is on D6, the B pin is on D7, and S1 is on D10.
 
 The OLED Display and clock module work hand-in-hand. The display displays the current time and the clock module keeps track of time, even when QuickPad is unplugged. As soon as the firmware is compiled, the time is set and saved. This is a great feature for when I need to unplug the macropad to plug in other devices, like my phone or desk lamp. Both components use D4 and D5 for SDA and SCL capabilities.
 
