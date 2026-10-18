@@ -33,7 +33,7 @@ The case has a similar design to my actual keyboard. It is comprised of 3 main p
 
 <img width="231" height="143" alt="Screenshot 2026-10-18 at 2 56 54 PM" src="https://github.com/user-attachments/assets/5945db5f-f810-450c-a505-e1bb8285988f" />
 
-The top enclosure has 3 cutouts: one for the keys, one for the rotary encoder, and one for the OLED screen. The one for the OLED screen has a small enclosure around it to stabilize the screen and keep it flush against the top enclosure. The enclosure has a very tight fit so it can easily snap in place without the need of screws.
+The top enclosure has 3 cutouts: one for the keys, one for the rotary encoder, and one for the OLED screen. The one for the OLED screen has a small enclosure around it to stabilize the screen and keep it flush against the top enclosure. If the included pins do not reach the OLED screen, I will cut wires to the size needed to attach the screen to the board. The enclosure has a very tight fit so it can easily snap in place without the need of screws.
 
 <img width="360" height="193" alt="Screenshot 2026-10-18 at 2 56 31 PM" src="https://github.com/user-attachments/assets/f16659f3-0b74-4a7a-ac6d-9dcda1a08190" />
 
