@@ -24,6 +24,21 @@ The OLED Display and clock module work hand-in-hand. The display displays the cu
 
 <img width="300" height="289" alt="Screenshot 2026-10-18 at 1 54 40 PM" src="https://github.com/user-attachments/assets/529b80e9-c0b6-4b09-a23b-9f5df821f4da" />
 
+*NOTE: Although it appears like the microcontroller collides with switch 2 on the PCB, the microcontroller is on the other side of the board and therefore shouldn't collide with switch 2. I could be wrong though
+
+# The Case
+The case has a similar design to my actual keyboard. It is comprised of 3 main parts: the main body, the top enclosure, and the rotary encoder knob. The main body has a sleep angular design with rounded edges for ergonomics when it needed to be moved. It also has a small hole for the USB port. The PCB is slightly raised to make room for the bottom components and also to create an inclined angled of typing.
+
+<img width="231" height="143" alt="Screenshot 2026-10-18 at 2 56 54 PM" src="https://github.com/user-attachments/assets/5945db5f-f810-450c-a505-e1bb8285988f" />
+
+The top enclosure has 3 cutouts: one for the keys, one for the rotary encoder, and one for the OLED screen. The one for the OLED screen has a small enclosure around it to stabilize the screen and keep it flush against the top enclosure. The enclosure has a very tight fit so it can easily snap in place without the need of screws.
+
+<img width="360" height="193" alt="Screenshot 2026-10-18 at 2 56 31 PM" src="https://github.com/user-attachments/assets/f16659f3-0b74-4a7a-ac6d-9dcda1a08190" />
+
+Finally, the rotary encoder knob has a filleted top edge for ergonomics. it is 10mm tall and 12mm wide. I was intending to add a textured surface, but I had trouble adding it so I left it smooth.
+
+<img width="360" height="361" alt="Screenshot 2026-10-18 at 2 55 43 PM" src="https://github.com/user-attachments/assets/92f8cf6c-c4f7-44b4-a04d-09ac8d63dc81" />
+
 # Bill of Materials
 
 | Part | Quantity | Unit Price | Total | Vendor |
