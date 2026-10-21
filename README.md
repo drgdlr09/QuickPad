@@ -1,5 +1,6 @@
 # QuickPad - A Brief Overview
 <img width="588" height="389" alt="Screenshot 2026-10-21 at 3 48 34 PM" src="https://github.com/user-attachments/assets/7a0ea690-d748-4d74-8c40-9816134edc74" />
+
 fully assembled model
 
 For Half-Life Week One, I designed QuickPad, a six-key macropad with a rotary encoder and 0.91" OLED screen. I designed QuickPad because my keyboard doesn't have any function keys, so I wanted to add some in the form of a macropad. During the design process, I also decided to add a rotary encoder for volume control. The OLED screen displays the date and time with the help of a DS3231 time module, which will keep track of time even when QuickPad is unplugged thanks to its coin cell battery.
